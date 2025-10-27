@@ -1,2 +1,2 @@
-print ("New Screen 1")
+print ("New Screen")
 
